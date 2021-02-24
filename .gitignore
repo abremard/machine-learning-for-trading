@@ -1,4 +1,5 @@
 .ipynb_checkpoints/**
 **/results
 data/**
-
+**/data.h5
+*.csv
